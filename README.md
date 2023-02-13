@@ -1,5 +1,5 @@
 <h1 align="center">Bienvenue sur mon profil GitHub 👋</h1>
-<h3 align="center">Ingénieur Computer Vision chez FAIR VISION</h3>
+<h3 align="center">Ingénieur Computer Vision chez <a href="https://www.fairvision.fr/">FAIR VISION</a></h3>
 
 <h3 align="center">Mes réseaux</h3>
 <p align="center">
